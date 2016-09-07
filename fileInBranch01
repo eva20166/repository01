@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 root root 4096 2016-09-07 11:09 .
+drwxr-xr-x 9 root root 4096 2016-09-07 10:54 ..
+-rw-r--r-- 1 root root    0 2016-09-07 11:09 fileInBranch01
+drwxr-xr-x 8 root root 4096 2016-09-07 11:09 .git
+-rw-r--r-- 1 root root  741 2016-09-07 10:54 testFile
