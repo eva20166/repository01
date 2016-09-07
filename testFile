@@ -1,0 +1,13 @@
+total 284
+drwxr-xr-x 3 root root  4096 2016-09-02 17:26 .
+drwxr-xr-x 9 root root  4096 2016-09-07 10:54 ..
+-rw-r--r-- 1 root root 33970 2016-09-02 16:54 39459__THE_bizniss__laser.wav
+-rw-r--r-- 1 root root 86508 2016-09-02 16:54 51467__smcameron__missile_explosion.wav
+-rw-r--r-- 1 root root 31644 2016-09-02 17:26 game.js
+drwxr-xr-x 8 root root  4096 2016-09-02 17:27 .git
+-rw-r--r-- 1 root root  1177 2016-09-02 16:54 index.html
+-rw-r--r-- 1 root root  1367 2016-09-02 16:54 ipad.js
+-rw-r--r-- 1 root root 70843 2016-09-02 16:54 jquery-1.4.1.min.js
+-rw-r--r-- 1 root root  1087 2016-09-02 16:54 LICENSE
+-rw-r--r-- 1 root root   769 2016-09-02 16:54 README.md
+-rw-r--r-- 1 root root 27861 2016-09-02 16:54 vector_battle_regular.typeface.js
